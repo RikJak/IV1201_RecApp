@@ -1,2 +1,2 @@
 python app.py
-npm run start 
+npm run build 
